@@ -17,11 +17,6 @@
                     "port": 9062,
                     "banner": "RFB 003.008",
                     "desktop_name": "KMAF8E78"
-                },
-                {
-                    "port": 9063,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
                 }
             ]
         },

@@ -317,11 +317,6 @@
                     "port": 5901,
                     "banner": "RFB 003.008",
                     "desktop_name": "aproltech.bamipa.local"
-                },
-                {
-                    "port": 5902,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
                 }
             ]
         },

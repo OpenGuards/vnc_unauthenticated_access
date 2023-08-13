@@ -86,13 +86,7 @@
         },
         {
             "ip_address": "84.245.81.220",
-            "service": [
-                {
-                    "port": 9063,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                }
-            ]
+            "service": []
         },
         {
             "ip_address": "158.193.143.17",
@@ -379,21 +373,6 @@
                     "port": 5901,
                     "banner": "RFB 003.008",
                     "desktop_name": "aproltech.bamipa.local"
-                },
-                {
-                    "port": 5902,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5906,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5907,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
                 }
             ]
         }

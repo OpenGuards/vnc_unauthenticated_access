@@ -47,41 +47,6 @@
                     "port": 5901,
                     "banner": "RFB 003.008",
                     "desktop_name": "aproltech.bamipa.local"
-                },
-                {
-                    "port": 5902,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5903,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5904,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5906,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5907,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5908,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5909,
-                    "banner": "RFB 003.003",
-                    "desktop_name": ""
                 }
             ]
         },
@@ -326,7 +291,7 @@
                 {
                     "port": 5900,
                     "banner": "RFB 003.008",
-                    "desktop_name": "<a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f684999982b6948685c2d890939fd882839d93d8859d\">[email\u00a0protected]</a>"
+                    "desktop_name": "___email_address_redacted___"
                 }
             ]
         }

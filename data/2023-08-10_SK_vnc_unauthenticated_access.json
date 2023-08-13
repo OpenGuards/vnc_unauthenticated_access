@@ -66,7 +66,7 @@
                 {
                     "port": 5900,
                     "banner": "RFB 003.008",
-                    "desktop_name": "<a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"abd9c4c4dfebc9dbd89f85cdcec285dfdec0ce85d8c0\">[email\u00a0protected]</a>"
+                    "desktop_name": "___email_address_redacted___"
                 }
             ]
         },
@@ -194,144 +194,9 @@
             "ip_address": "45.95.11.99",
             "service": [
                 {
-                    "port": 5900,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5901,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5902,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5903,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5905,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5906,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5908,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5909,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5910,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5911,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5912,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5913,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5914,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5915,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
                     "port": 5916,
                     "banner": "RFB 003.008",
                     "desktop_name": "QEMU (vm462166)"
-                },
-                {
-                    "port": 5917,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5918,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5919,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5920,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5922,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5924,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5925,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5928,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5938,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5940,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5942,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5946,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
-                },
-                {
-                    "port": 5950,
-                    "banner": "RFB 003.008",
-                    "desktop_name": ""
                 }
             ]
         },
